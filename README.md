@@ -1,71 +1,58 @@
-<h1 align="center">Hi there 👋, I'm Veerendra!</h1>
+<h1>Hi there 👋, I'm Veerendra!</h1>
 
-<p align="center">
-🎓 <strong>Master's student in Computer Science</strong> at UMKC (GPA: 3.9/4)<br>
-📊 Passionate about <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Data Visualization</strong><br>
-🚀 Always learning, experimenting, and sharing insights in the world of data!
-</p>
+<ul>
+  <li>🎓 <strong>Master's student in Computer Science</strong> at UMKC (GPA: 3.9/4), with a passion for <strong>Data Science</strong> and <strong>Machine Learning</strong>.</li>
+  <li>📊 Experienced in data migration, preprocessing, and visualization using Python libraries such as <strong>Pandas, NumPy, Matplotlib,</strong> and <strong>Seaborn</strong>.</li>
+  <li>💡 Skilled in building predictive models, applying machine learning algorithms, and delivering actionable insights.</li>
+  <li>🌟 Proficient in tools like <strong>Tableau</strong>, <strong>Power BI</strong>, and cloud platforms (<strong>AWS, Azure</strong>) for advanced data analysis.</li>
+  <li>🚀 Always eager to explore emerging trends in AI, big data, and predictive analytics while sharing knowledge with the community.</li>
+</ul>
 
 ---
 
-<h2>🔍 Featured Projects</h2>
+<h2>📂 Featured Projects</h2>
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Visualization</th>
-  </tr>
-  <tr>
-    <td><strong>Customer Churn Prediction</strong></td>
-    <td>Built a machine learning model to identify customers at risk of churning.</td>
-    <td align="center">
-      <img src="https://via.placeholder.com/400x200?text=Churn+Prediction+Chart" alt="Churn Prediction Chart" width="300"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Sales Forecasting</strong></td>
-    <td>Forecasted sales trends using time series analysis on historical data.</td>
-    <td align="center">
-      <img src="https://via.placeholder.com/400x200?text=Sales+Forecasting+Visualization" alt="Sales Forecasting Visualization" width="300"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>House Price Prediction</strong></td>
-    <td>Developed a regression model to estimate house prices based on features.</td>
-    <td align="center">
-      <img src="https://via.placeholder.com/400x200?text=House+Price+Prediction+Graph" alt="House Price Prediction Graph" width="300"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Stock Price Prediction</strong></td>
-    <td>Predicted stock prices using time series and regression techniques.</td>
-    <td align="center">
-      <img src="https://via.placeholder.com/400x200?text=Stock+Price+Trend" alt="Stock Price Trend" width="300"/>
-    </td>
-  </tr>
-</table>
+<h3>1. Customer Churn Prediction Model</h3>
+<p><strong>Description:</strong> Built a machine learning model to identify customers at risk of churning.</p>
+<p><strong>Skills Used:</strong> Python (<em>scikit-learn, Pandas</em>), Data Visualization (<em>Matplotlib, Seaborn</em>), Feature Engineering, Model Evaluation.</p>
+<p><a href="#">Repository Link</a> (Add once uploaded)</p>
+
+<h3>2. Sales Forecasting Model</h3>
+<p><strong>Description:</strong> Developed a forecasting model to predict sales trends using historical data.</p>
+<p><strong>Skills Used:</strong> Python (<em>Pandas, scikit-learn</em>), SQL, Time Series Analysis, Data Visualization.</p>
+<p><a href="#">Repository Link</a> (Add once uploaded)</p>
+
+<h3>3. House Price Prediction</h3>
+<p><strong>Description:</strong> Created a regression model to predict house prices based on various features.</p>
+<p><strong>Skills Used:</strong> Python (<em>Pandas, scikit-learn</em>), Regression Algorithms, Data Preprocessing, Feature Engineering.</p>
+<p><a href="#">Repository Link</a> (Add once uploaded)</p>
+
+<h3>4. Stock Price Prediction</h3>
+<p><strong>Description:</strong> Designed a predictive model for stock prices with time series analysis.</p>
+<p><strong>Skills Used:</strong> Python (<em>Pandas, scikit-learn</em>), Time Series Forecasting, Regression Algorithms.</p>
+<p><a href="#">Repository Link</a> (Add once uploaded)</p>
 
 ---
 
 <h2>🛠️ Technical Skills</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-244B69?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-1C77C3?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
+<ul>
+  <li><strong>Programming Languages:</strong> Python, R, SQL</li>
+  <li><strong>Libraries & Tools:</strong> Pandas, NumPy, SciPy, Matplotlib, Seaborn, scikit-learn, TensorFlow</li>
+  <li><strong>Visualization:</strong> Tableau, Power BI</li>
+  <li><strong>Big Data Tools:</strong> Apache Spark, Hadoop</li>
+  <li><strong>Databases:</strong> MySQL, MongoDB, Snowflake</li>
+  <li><strong>Cloud Platforms:</strong> AWS (S3, EC2, Lambda), Azure</li>
+  <li><strong>Version Control:</strong> Git, GitHub</li>
+  <li><strong>Operating Systems:</strong> Linux, Windows</li>
+</ul>
 
 ---
 
 <h2>🌟 Connect with Me</h2>
-<p align="center">
-  <a href="mailto:veerendrasabbina@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/veerendrasabbina"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/veerendra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<ul>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/veerendrasabbina">linkedin.com/in/veerendrasabbina</a></li>
+  <li><strong>Email:</strong> <a href="mailto:veerendrasabbina@gmail.com">veerendrasabbina@gmail.com</a></li>
+</ul>
+
+<p>Feel free to explore my repositories and reach out for collaborations or discussions on exciting data science topics!</p>
