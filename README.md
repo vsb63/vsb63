@@ -1,9 +1,8 @@
-## Hi there 👋
 # Hi there 👋, I'm Veerendra!
-- 🎓 Master's student in Computer science at UMKC.
-- 🛡️ Experienced in defensive cybersecurity techniques, including threat intelligence and data centralization.
-- 🔍 Exploring offensive techniques like ethical hacking and penetration testing.
-- 🚀 Always learning and sharing knowledge.  
+- 🎓 Master's student at UMKC with a passion for Data Science and Analytics.
+- 📊 Experienced in data cleaning, transformation, and visualization using Python libraries .
+- 🔍 Exploring advanced topics such as machine learning, predictive modeling, and big data analytics.
+- 🚀 Always eager to learn new techniques and share insights with the community.
 Check out my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/veerendrasabbina/)!
 <!--
 **vsb63/vsb63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
