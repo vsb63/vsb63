@@ -7,7 +7,7 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Projects
 #### 1. **Customer Churn Prediction Model**
 - **Description**: Built a machine learning model to identify customers at risk of churning.
 - **Skills Used**: Python (scikit-learn, Pandas), Data Visualization (Matplotlib, Seaborn), Feature Engineering, Model Evaluation.
