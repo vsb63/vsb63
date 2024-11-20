@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+# Hi there 👋, I'm Veerendra!
+- 🎓 Master's student in Computer science at UMKC.
+- 🛡️ Experienced in defensive cybersecurity techniques, including threat intelligence and data centralization.
+- 🔍 Exploring offensive techniques like ethical hacking and penetration testing.
+- 🚀 Always learning and sharing knowledge.  
+Check out my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/veerendrasabbina/)!
 <!--
 **vsb63/vsb63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
